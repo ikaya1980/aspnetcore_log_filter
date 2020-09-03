@@ -1,0 +1,27 @@
+2020-09-03 22:23:00,297  INFO Microsoft.Hosting.Lifetime.? [?] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2020-09-03 22:23:00,335  INFO Microsoft.Hosting.Lifetime.? [?] - MESSAGE: Hosting environment: Development
+ 2020-09-03 22:23:00,339  INFO Microsoft.Hosting.Lifetime.? [?] - MESSAGE: Content root path: C:\Users\Asus\source\repos\aspnetcore_log_filter
+ 2020-09-03 22:24:11,645  INFO Microsoft.Hosting.Lifetime.? [?] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2020-09-03 22:24:11,666  INFO Microsoft.Hosting.Lifetime.? [?] - MESSAGE: Hosting environment: Development
+ 2020-09-03 22:24:11,669  INFO Microsoft.Hosting.Lifetime.? [?] - MESSAGE: Content root path: C:\Users\Asus\source\repos\aspnetcore_log_filter
+ 2020-09-03 22:26:05,918  INFO Microsoft.Hosting.Lifetime.? [?] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2020-09-03 22:26:05,929  INFO Microsoft.Hosting.Lifetime.? [?] - MESSAGE: Hosting environment: Development
+ 2020-09-03 22:26:05,933  INFO Microsoft.Hosting.Lifetime.? [?] - MESSAGE: Content root path: C:\Users\Asus\source\repos\aspnetcore_log_filter
+ 2020-09-03 22:26:24,933  WARN Microsoft.AspNetCore.Identity.SignInManager.? [?] - MESSAGE: User c975a35b-7a46-48b6-8b30-a03e196ebf23 cannot sign in without a confirmed account.
+ 2020-09-03 22:27:15,307  WARN Microsoft.AspNetCore.Identity.UserManager.? [?] - MESSAGE: Invalid password for user c975a35b-7a46-48b6-8b30-a03e196ebf23.
+ 2020-09-03 22:27:15,312  WARN Microsoft.AspNetCore.Identity.SignInManager.? [?] - MESSAGE: User c975a35b-7a46-48b6-8b30-a03e196ebf23 failed to provide the correct password.
+ 2020-09-03 22:27:22,410  WARN Microsoft.AspNetCore.Identity.UserManager.? [?] - MESSAGE: Invalid password for user c975a35b-7a46-48b6-8b30-a03e196ebf23.
+ 2020-09-03 22:27:22,414  WARN Microsoft.AspNetCore.Identity.SignInManager.? [?] - MESSAGE: User c975a35b-7a46-48b6-8b30-a03e196ebf23 failed to provide the correct password.
+ 2020-09-03 22:57:18,002  INFO Microsoft.Hosting.Lifetime.? [?] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2020-09-03 22:57:18,013  INFO Microsoft.Hosting.Lifetime.? [?] - MESSAGE: Hosting environment: Development
+ 2020-09-03 22:57:18,015  INFO Microsoft.Hosting.Lifetime.? [?] - MESSAGE: Content root path: C:\Users\Asus\source\repos\aspnetcore_log_filter
+ 2020-09-03 23:03:21,191  INFO Microsoft.Hosting.Lifetime.? [?] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2020-09-03 23:03:21,201  INFO Microsoft.Hosting.Lifetime.? [?] - MESSAGE: Hosting environment: Development
+ 2020-09-03 23:03:21,204  INFO Microsoft.Hosting.Lifetime.? [?] - MESSAGE: Content root path: C:\Users\Asus\source\repos\aspnetcore_log_filter
+ 2020-09-03 23:06:32,760  INFO Microsoft.Hosting.Lifetime.? [?] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2020-09-03 23:06:32,770  INFO Microsoft.Hosting.Lifetime.? [?] - MESSAGE: Hosting environment: Development
+ 2020-09-03 23:06:32,773  INFO Microsoft.Hosting.Lifetime.? [?] - MESSAGE: Content root path: C:\Users\Asus\source\repos\aspnetcore_log_filter
+ 2020-09-03 23:07:59,554  INFO Microsoft.Hosting.Lifetime.? [?] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2020-09-03 23:07:59,568  INFO Microsoft.Hosting.Lifetime.? [?] - MESSAGE: Hosting environment: Development
+ 2020-09-03 23:07:59,570  INFO Microsoft.Hosting.Lifetime.? [?] - MESSAGE: Content root path: C:\Users\Asus\source\repos\aspnetcore_log_filter
+ 
